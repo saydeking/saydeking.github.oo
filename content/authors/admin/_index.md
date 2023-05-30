@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Computer Science and Engineering
       institution: University of South Florida
-      year: May 2024
+      year: 2024
     - course: MS in Computer Science
       institution: University of South Florida
       year: 2022
@@ -53,16 +53,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/saydeking
+    link: https://twitter.com/sayde_king
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=lyf3WOYAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/saydeking
+    link: https://www.linkedin.com/in/saydeking
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sayde King is a Ph.D. Candidate under the advisement of Dr. Tempestt Neal in the Cyber Identity and Behavior Research (CIBeR) Lab. Her research interests include behavioral analysis, human computer interaction, and automated deception detection. She is an Alfred P. Sloan Minority Ph.D. Scholar and National GEM Consortium Fellow. 
 {style="text-align: justify;"}
