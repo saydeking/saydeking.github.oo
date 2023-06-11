@@ -32,22 +32,22 @@ sections:
           organization_url: 
           title: Became a Ph.D. Candidate!
           url: 'https://www.linkedin.com/posts/saydeking_phdjourney-activity-6991044883654303744-8LQ1?utm_source=share&utm_medium=member_desktop'
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
+          date_start: '2022-05-01'
+          description: Awarded a Ph.D. Employer Fellowship from the National GEM Consortium sponsored by the MIT Lincoln Laboratory.
+          organization: National GEM Consortium | MITLL
+          organization_url: https://www.gemfellowship.org/
+          title: Named a National GEM Consortium Fellow
+          url: https://www.ll.mit.edu/news/sayde-king-selected-gem-phd-fellowship-lincoln-laboratory
+        - certificate_url: 
+          date_end: ''
+          date_start: '2022-04-01'
+          description: 'I was a guest on the Modern Figures podcast! In my episode, Big Brain Energy, I discuss my PhD journey and how the Modern Figures Podcast played a critical role. Have a listen!'
+          organization: 
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          title: 'Featured on the Modern Figures Podcast!'
+          url: 'https://modernfigurespodcast.com/big-brain-energy-episode-038/'
     design:
       columns: '2'
       
