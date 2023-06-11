@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:saydeking@usf.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sayde_king
@@ -70,10 +70,6 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
     
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:saydeking@usf.edu
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'saydeking@usf.edu'
 # autolink: true
