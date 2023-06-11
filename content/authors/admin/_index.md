@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Computer Science and Engineering
       institution: University of South Florida
-      year: 2024
+      year: August 2024
     - course: MS in Computer Science
       institution: University of South Florida
       year: 2022
@@ -71,8 +71,8 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'saydeking@usf.edu'
-# autolink: true
+ email: 'saydeking@usf.edu'
+ autolink: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
