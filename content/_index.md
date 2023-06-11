@@ -14,7 +14,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'News'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -24,14 +24,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-10-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          organization: PhD Progress
+          organization_url: 
+          title: Became a Ph.D. Candidate!
+          url: 'https://www.linkedin.com/posts/saydeking_phdjourney-activity-6991044883654303744-8LQ1?utm_source=share&utm_medium=member_desktop'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
@@ -54,7 +54,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: New Projects
+      title: Selected Projects
       filters:
         folders:
           - project
