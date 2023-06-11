@@ -35,7 +35,7 @@ publication_short: In *JMIR Form Res*
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: We present a mixed methods study to evaluate user experiences with the mental mHealth service, Cope Notes. Specifically, we aimed to investigate the following research questions: How do users perceive the service in relation to stigma, impact of the intervention, and perceived usefulness? How do users rate the Cope Notes service and SMS text messaging along various dimensions of acceptability? What is the relationship between Cope Notes SMS text message ratings, user personality, and coping strategies? What are user perspectives of leveraging ubiquitous sensing technologies to improve delivery and provide tailored content?
+summary: 'We present a mixed methods study to evaluate user experiences with the mental mHealth service, Cope Notes. Specifically, we aimed to investigate the following research questions: How do users perceive the service in relation to stigma, impact of the intervention, and perceived usefulness? How do users rate the Cope Notes service and SMS text messaging along various dimensions of acceptability? What is the relationship between Cope Notes SMS text message ratings, user personality, and coping strategies? What are user perspectives of leveraging ubiquitous sensing technologies to improve delivery and provide tailored content?'
 
 tags: []
 
