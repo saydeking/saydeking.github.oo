@@ -69,6 +69,10 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:saydeking@usf.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'saydeking@usf.edu'
