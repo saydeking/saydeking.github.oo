@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: https://formative.jmir.org/2022/5/e35699/
 
-url_pdf: 'JMIR-Form-Res'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -59,8 +59,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: 'Source: [**Pexels**](https://www.pexels.com/photo/cheerful-man-with-smartphone-drinking-juice-on-street-3799832/)'
+  focal_point: 'smart'
   preview_only: false
 
 # Associated Projects (optional).
