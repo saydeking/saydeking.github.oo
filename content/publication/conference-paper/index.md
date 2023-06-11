@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: https://formative.jmir.org/2022/5/e35699/
 
-url_pdf: ''
+url_pdf: 'content/publication/conference-paper/JMIR-Form-Res'
 url_code: ''
 url_dataset: ''
 url_poster: ''
