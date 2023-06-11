@@ -72,7 +72,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
  email: 'saydeking@usf.edu'
- autolink: true
+# autolink: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
