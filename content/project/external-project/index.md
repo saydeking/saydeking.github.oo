@@ -10,6 +10,6 @@ date: "2019-08-27T00:00:00Z"
 external_link: https://www.usf.edu/cbcs/mhlp/centers/star-lab/current-research/honest-open-proud-in-college.aspx
 
 image:
-  caption: 
+  caption: Up To Me logo
   focal_point: Smart
 ---
