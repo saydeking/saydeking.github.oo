@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   
-  - block: experience
+ # - block: experience
     content:
       title: Experience
       # Date format for experience
