@@ -32,8 +32,6 @@ tags:
 featured: false
 
 links:
-- name: Publication Link
-  url: 
 url_pdf: 
 url_code: ''
 url_dataset: ''
