@@ -27,7 +27,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2022-10-25'
-          description: ''
+          description: 'In my Major Area Presentation (better known as a proposal), I presented an overivew of my progress thus far toward my dissertation. Specifically, I highlighted key research in the literature, presented my research study on the perceptions of mental health counselors on the use of AI for deception detection in therapeutic settings, and disscussed future studies, and my completion timeline.'
           organization: PhD Progress
           organization_url: 
           title: Became a Ph.D. Candidate!
@@ -44,7 +44,7 @@ sections:
           date_end: ''
           date_start: '2022-04-01'
           description: 'I was a guest on the Modern Figures podcast! In my episode, Big Brain Energy, I discuss my PhD journey and how the Modern Figures Podcast played a critical role. Have a listen!'
-          organization: 
+          organization: 'Modern Figures Podcast'
           organization_url: https://www.datacamp.com
           title: 'Featured on the Modern Figures Podcast!'
           url: 'https://modernfigurespodcast.com/big-brain-energy-episode-038/'
