@@ -26,7 +26,7 @@ publication_short: "In HCII 2023"
 abstract: This paper discusses the results of a qualitative study which assessed the perceptions of mental health professionals (N=15) on the use of artificial intelligence for deception detection in therapy sessions. Four themes emerged from coding analysis of the interview data, including Functional Components of the Computer Science Implementation, Perceptions of the Computer Science Implementation, Integration of the Computer Science Implementation, and Suggestions. These themes encompass feedback from practicing mental health professionals  suggesting a potential use case for automated deception detection in mental health, albeit considerations for confidentiality, client autonomy, data access, and therapist-client trust.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: This paper discusses the results of a qualitative study which assessed the perceptions of mental health professionals (N=15) on the use of artificial intelligence for deception detection in therapy sessions. Four themes emerged from coding analysis of the interview data, including Functional Components of the Computer Science Implementation, Perceptions of the Computer Science Implementation, Integration of the Computer Science Implementation, and Suggestions. These themes encompass feedback from practicing mental health professionals  suggesting a potential use case for automated deception detection in mental health, albeit considerations for confidentiality, client autonomy, data access, and therapist-client trust.
 
 tags:
 - Source Themes
