@@ -40,7 +40,7 @@ summary: 'We present a mixed methods study to evaluate user experiences with the
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
