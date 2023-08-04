@@ -1,53 +1,41 @@
 ---
-title: 'Characterizing User Experiences With an SMS Text Messaging–Based mHealth Intervention - Mixed Methods Study'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Therapist Perceptions of Automated Deception Detection in Mental Health Applications"
 authors:
-  - admin
-  - Jana Lebert
-  - Lacey Anne Karpisek
-  - Amelia Phillips
-  - Tempestt Neal
-  - Kristin Kosyluk
-
-# Author notes (optional)
-# author_notes:
-  - 
-
-date: '2022-05-01T00:00:00Z'
-doi: '10.2196/35699'
+- admin
+- Najare Johnson
+- Kristin Kosyluk
+- Tempestt Neal
+author_notes:
+- 
+date: "2023-07-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2023-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *JMIR Formative Research*
-publication_short: In *JMIR Form Res*
+publication: "*In 2023 25th International Conference on Human-Computer Interaction*"
+publication_short: "In HCII 2023"
 
-abstract: ''
+abstract: This paper discusses the results of a qualitative study which assessed the perceptions of mental health professionals (N=15) on the use of artificial intelligence for deception detection in therapy sessions. Four themes emerged from coding analysis of the interview data, including Functional Components of the Computer Science Implementation, Perceptions of the Computer Science Implementation, Integration of the Computer Science Implementation, and Suggestions. These themes encompass feedback from practicing mental health professionals  suggesting a potential use case for automated deception detection in mental health, albeit considerations for confidentiality, client autonomy, data access, and therapist-client trust.
 
 # Summary. An optional shortened abstract.
-summary: 'We present a mixed methods study to evaluate user experiences with the mental mHealth service, Cope Notes. Specifically, we aimed to investigate the following research questions: How do users perceive the service in relation to stigma, impact of the intervention, and perceived usefulness? How do users rate the Cope Notes service and SMS text messaging along various dimensions of acceptability? What is the relationship between Cope Notes SMS text message ratings, user personality, and coping strategies? What are user perspectives of leveraging ubiquitous sensing technologies to improve delivery and provide tailored content?'
+summary:
 
-tags: []
+tags:
+- Source Themes
+featured: false
 
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: https://formative.jmir.org/2022/5/e35699/
-
-url_pdf: 'JMIR-Form-Res'
+# - name: ""
+#   url: ""
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,10 +45,10 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Source: [**Pexels**](https://www.pexels.com/photo/cheerful-man-with-smartphone-drinking-juice-on-street-3799832/)'
-  focal_point: 'smart'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -68,7 +56,71 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [example]
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+
+title: "Assessing the Efficacy of a Self-Stigma Reduction Mental Health Program with Behavioral Biometrics - Work-in-Progress"
+authors:
+- Nele Loecher
+- admin
+- Joseph Cabo
+- Tempestt Neal
+- Kristin Kosyluk
+date: "2023-01-07T00:00:00Z"
+doi: "10.1109/FG57933.2023.10042655"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: " In 2023 17th IEEE International Conference on Automatic Face and Gesture Recognition"
+publication_short: "In FG2023"
+
+abstract: One of the strongest predictors of success in post-secondary education is student engagement. Unfortunately, people with psychiatric disabilities are less engaged in their campus communities. This work-in-progress paper details the disclosure-based self-stigma reduction program, Up To Me, which is developed to increase inclusion and engagement of people with mental illness on college campuses by teaching strategies to weigh costs and benefits of disclosing one's mental illness. Further, we elaborate on the program's evaluation mechanisms, which involve both self-reported and passively recorded smartphone sensor data. The latter reflects a unique merging of behavioral and computer sciences that serves to facilitate behavioral modeling using artificial intelligence as an objective measure of Up to Me outcomes. Similar to data collection for some activity and biometric recognition applications, we employ a publicly available and free-to-use smartphone sensor reading app to correlate self-reported well-being with Up to Me participant behaviors. We anticipate that the behavioral data gathered via smartphones will substantiate self-report data on Up to Me outcomes.
+
+# Summary. An optional shortened abstract.
+summary:
+
+tags:
+- Source Themes
+featured: false
+
+links:
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- external-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

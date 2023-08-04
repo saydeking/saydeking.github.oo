@@ -1,13 +1,12 @@
 ---
-title: "Assessing the Efficacy of a Self-Stigma Reduction Mental Health Program with Behavioral Biometrics - Work-in-Progress"
+title: "Studying the Impact of Mood on Identiying Smartphone Users"
 authors:
-- Nele Loecher
+- Khadija Zanna
 - admin
-- Joseph Cabo
 - Tempestt Neal
-- Kristin Kosyluk
-date: "2023-01-07T00:00:00Z"
-doi: "10.1109/FG57933.2023.10042655"
+- Shaun Canavan
+date: "2020-01-07T00:00:00Z"
+doi: "arXiv:1906.11960"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: " In 2023 17th IEEE International Conference on Automatic Face and Gesture Recognition"
-publication_short: "In FG2023"
+publication: " "
+publication_short: ""
 
-abstract: One of the strongest predictors of success in post-secondary education is student engagement. Unfortunately, people with psychiatric disabilities are less engaged in their campus communities. This work-in-progress paper details the disclosure-based self-stigma reduction program, Up To Me, which is developed to increase inclusion and engagement of people with mental illness on college campuses by teaching strategies to weigh costs and benefits of disclosing one's mental illness. Further, we elaborate on the program's evaluation mechanisms, which involve both self-reported and passively recorded smartphone sensor data. The latter reflects a unique merging of behavioral and computer sciences that serves to facilitate behavioral modeling using artificial intelligence as an objective measure of Up to Me outcomes. Similar to data collection for some activity and biometric recognition applications, we employ a publicly available and free-to-use smartphone sensor reading app to correlate self-reported well-being with Up to Me participant behaviors. We anticipate that the behavioral data gathered via smartphones will substantiate self-report data on Up to Me outcomes.
+abstract: This paper explores the identification of smartphone users when certain samples collected while the subject felt happy, upset or stressed were absent or present. We employ data from 19 subjects using the StudentLife dataset, a dataset collected by researchers at Dartmouth College that was originally collected to correlate behaviors characterized by smartphone usage patterns with changes in stress and academic performance. Although many previous works on behavioral biometrics have implied that mood is a source of intra-person variation which may impact biometric performance, our results contradict this assumption. Our findings show that performance worsens when removing samples that were generated when subjects may be happy, upset, or stressed. Thus, there is no indication that mood negatively impacts performance. However, we do find that changes existing in smartphone usage patterns may correlate with mood, including changes in locking, audio, location, calling, homescreen, and e-mail habits. Thus, we show that while mood is a source of intra-person variation, it may be an inaccurate assumption that biometric systems (particularly, mobile biometrics) are likely influenced by mood.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -54,7 +53,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- external-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

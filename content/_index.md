@@ -28,7 +28,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-07-25'
-          description: 'Awarded the Florida Education Fund McKnight Dissertation Fellowship.'
+          description: 'Awarded the Florida Education Fund 2023 McKnight Dissertation Fellowship.'
           organization: Florida Education Fund
           organization_url: https://fefonline.org/index.html
           title: Named a Mcknight Dissertation Fellow

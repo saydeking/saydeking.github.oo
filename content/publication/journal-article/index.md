@@ -1,41 +1,53 @@
 ---
-title: "Therapist Perceptions of Automated Deception Detection in Mental Health Applications"
+title: 'Characterizing User Experiences With an SMS Text Messaging–Based mHealth Intervention - Mixed Methods Study'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Najare Johnson
-- Kristin Kosyluk
-- Tempestt Neal
-author_notes:
-- 
-date: "2023-07-01T00:00:00Z"
-doi: ""
+  - admin
+  - Jana Lebert
+  - Lacey Anne Karpisek
+  - Amelia Phillips
+  - Tempestt Neal
+  - Kristin Kosyluk
+
+# Author notes (optional)
+# author_notes:
+  - 
+
+date: '2022-05-01T00:00:00Z'
+doi: '10.2196/35699'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-01T00:00:00Z"
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "*In 2023 25th International Conference on Human-Computer Interaction*"
-publication_short: "In HCII 2023"
+publication: In *JMIR Formative Research*
+publication_short: In *JMIR Form Res*
 
-abstract: This paper discusses the results of a qualitative study which assessed the perceptions of mental health professionals (N=15) on the use of artificial intelligence for deception detection in therapy sessions. Four themes emerged from coding analysis of the interview data, including Functional Components of the Computer Science Implementation, Perceptions of the Computer Science Implementation, Integration of the Computer Science Implementation, and Suggestions. These themes encompass feedback from practicing mental health professionals  suggesting a potential use case for automated deception detection in mental health, albeit considerations for confidentiality, client autonomy, data access, and therapist-client trust.
+abstract: ''
 
 # Summary. An optional shortened abstract.
-summary:
+summary: 'We present a mixed methods study to evaluate user experiences with the mental mHealth service, Cope Notes. Specifically, we aimed to investigate the following research questions: How do users perceive the service in relation to stigma, impact of the intervention, and perceived usefulness? How do users rate the Cope Notes service and SMS text messaging along various dimensions of acceptability? What is the relationship between Cope Notes SMS text message ratings, user personality, and coping strategies? What are user perspectives of leveraging ubiquitous sensing technologies to improve delivery and provide tailored content?'
 
-tags:
-- Source Themes
-featured: false
+tags: []
 
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
 # links:
-# - name: ""
-#   url: ""
-url_pdf: ''
+# - name: Custom Link
+#   url: https://formative.jmir.org/2022/5/e35699/
+
+url_pdf: 'JMIR-Form-Res'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,10 +57,10 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Source: [**Pexels**](https://www.pexels.com/photo/cheerful-man-with-smartphone-drinking-juice-on-street-3799832/)'
+  focal_point: 'smart'
   preview_only: false
 
 # Associated Projects (optional).
@@ -56,7 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [example]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
