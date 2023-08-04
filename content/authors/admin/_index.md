@@ -77,5 +77,5 @@ social:
 highlight_name: true
 ---
 
-Sayde King is a Ph.D. Candidate under the advisement of Dr. Tempestt Neal in the Cyber Identity and Behavior Research (CIBeR) Lab. Her research interests include behavioral analysis, human computer interaction, and automated deception detection. She is an Alfred P. Sloan Minority Ph.D. Scholar and National GEM Consortium Fellow. 
+Sayde King is a Ph.D. Candidate under the advisement of Dr. Tempestt Neal in the Cyber Identity and Behavior Research (CIBeR) Lab. Her research interests include behavioral analysis, human computer interaction, and automated deception detection. She is a Mcknight Dissertation Fellow, an Alfred P. Sloan Minority Ph.D. Scholar, and National GEM Consortium Fellow. 
 {style="text-align: justify;"}
