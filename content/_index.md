@@ -25,6 +25,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - certificate_url: 
+          date_end: ''
+          date_start: '2023-07-25'
+          description: 'Awarded the Florida Education Fund McKnight Dissertation Fellowship.'
+          organization: Florida Education Fund
+          organization_url: https://fefonline.org/index.html
+          title: Named a Mcknight Dissertation Fellow
+          url: 
         - certificate_url: 
           date_end: ''
           date_start: '2022-10-25'
