@@ -12,10 +12,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: accomplishments
+    id: news
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'News'
-      id: news
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -86,6 +86,7 @@ sections:
       columns: '2'
      # view: card
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: |-
