@@ -2,7 +2,7 @@
 title: 'Characterizing user experiences with an sms text messaging--based mhealth
   intervention: Mixed methods study'
 authors:
-- Sayde Leya King
+- admin
 - Jana Lebert
 - Lacey Anne Karpisek
 - Amelia Phillips
