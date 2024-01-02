@@ -1,7 +1,7 @@
 ---
 title: Therapist Perceptions of Automated Deception Detection in Mental Health Applications
 authors:
-- Sayde L King
+- admin
 - Najare Johnson
 - Kristin Kosyluk
 - Tempestt Neal
