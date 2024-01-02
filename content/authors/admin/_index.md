@@ -18,8 +18,9 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Computer Science and Engineering at the University of South Florida
-    url: https://www.usf.edu
+  - name: Department of Computer Science and Engineering
+    at the University of South Florida
+    url: https://www.cse.usf.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include behavioral analysis, human computer interaction and automated deception detection.
