@@ -10,6 +10,6 @@ authors:
 - admin
 date: '2023-01-01'
 publishDate: '2024-01-02T23:28:46.234190Z'
-publication_types: ["2]
+publication_types: ["2"]
 publication: '*Frontiers in Research Metrics and Analytics*'
 ---
