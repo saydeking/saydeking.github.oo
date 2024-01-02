@@ -2,7 +2,7 @@
 title: Learning a Privacy-Preserving Global Feature Set for Mood Classification Using
   Smartphone Activity and Sensor Data
 authors:
-- Sayde King
+- admin
 - Mohamed Ebraheem
 - Khadija Zanna
 - Tempestt Neal
