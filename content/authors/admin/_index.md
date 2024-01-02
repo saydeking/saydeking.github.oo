@@ -18,7 +18,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Computer Science and Engineering \nat the University of South Florida
+  - name: Department of Computer Science and Engineering at the University of South Florida
     url: https://www.cse.usf.edu
 
 # Short bio (displayed in user profile at end of posts)
