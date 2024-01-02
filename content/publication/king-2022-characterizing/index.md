@@ -10,7 +10,6 @@ authors:
 - Kristin Kosyluk
 date: '2022-01-01'
 publishDate: '2024-01-02T23:28:46.206105Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*JMIR Formative Research*'
 ---
