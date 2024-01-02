@@ -7,10 +7,9 @@ authors:
 - Fabio Montagna
 - Michael N Teng
 - Sylvia Thomas
-- Sayde King
+- admin
 date: '2023-01-01'
 publishDate: '2024-01-02T23:28:46.234190Z'
-publication_types:
-- article-journal
+publication_types: ["2]
 publication: '*Frontiers in Research Metrics and Analytics*'
 ---
