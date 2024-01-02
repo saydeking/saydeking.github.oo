@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Computer Science and Engineering
       institution: University of South Florida
-      year: August 2024
+      year: December 2024
     - course: MS in Computer Science
       institution: University of South Florida
       year: 2022
