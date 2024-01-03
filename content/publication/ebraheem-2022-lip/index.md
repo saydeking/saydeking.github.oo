@@ -7,7 +7,7 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-01-02T23:28:46.214259Z'
 publication_types: ["1"]
-publication: '*In 2022 24th International Conference on Human-Computer Interaction Posters*'
+publication: '*In 2022 24th International Conference on Human-Computer Interaction Posters (HCII)*'
 # publication_short: "*In HCII 2022*"
 doi: https://doi.org/10.1007/978-3-031-06394-7_59
 # Publication name and optional abbreviated publication name.
