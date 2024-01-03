@@ -1,5 +1,5 @@
 ---
-title: Studying the impact of mood on identifying smartphone users
+title: Studying the Impact of Mood on Identifying Smartphone Users
 authors:
 - Khadija Zanna
 - admin
