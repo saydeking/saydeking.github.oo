@@ -14,6 +14,6 @@ doi: 10.1109/FG47880.2020.00105
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
-publication: '*2020 15th IEEE International Conference on Automatic Face and Gesture
+publication: '*In 2020 15th IEEE International Conference on Automatic Face and Gesture
   Recognition (FG 2020)*'
 ---
