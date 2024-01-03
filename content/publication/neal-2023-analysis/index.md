@@ -12,4 +12,5 @@ date: '2023-01-01'
 publishDate: '2024-01-02T23:28:46.234190Z'
 publication_types: ["2"]
 publication: '*Frontiers in Research Metrics and Analytics*'
+doi: https://doi.org/10.3389/frma.2023.1204801
 ---
