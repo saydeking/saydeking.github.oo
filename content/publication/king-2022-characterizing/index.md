@@ -1,6 +1,6 @@
 ---
-title: 'Characterizing user experiences with an sms text messaging--based mhealth
-  intervention: Mixed methods study'
+title: 'Characterizing User Experiences With an SMS Text Messaging--Based mHealth
+  Intervention: Mixed Methods Study'
 authors:
 - admin
 - Jana Lebert
