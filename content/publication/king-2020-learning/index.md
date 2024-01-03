@@ -8,6 +8,7 @@ authors:
 - Tempestt Neal
 date: '2020-01-01'
 publishDate: '2024-01-02T23:28:46.199547Z'
+doi: 10.1109/FG47880.2020.00105
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
