@@ -15,5 +15,5 @@ doi: 10.1109/FG47880.2020.00105
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 publication: '*In 2020 15th IEEE International Conference on Automatic Face and Gesture
-  Recognition (FG 2020)*'
+  Recognition (FG)*'
 ---
