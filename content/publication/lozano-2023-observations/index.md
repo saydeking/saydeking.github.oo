@@ -8,6 +8,6 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-01-02T23:28:46.240702Z'
 publication_types: ["1"]
-publication: '*In International Conference on Human-Computer Interaction (HCII)*'
+publication: '*In 2023 25th International Conference on Human-Computer Interaction (HCII)*'
 doi: https://doi.org/10.1007/978-3-031-34917-1_23
 ---
