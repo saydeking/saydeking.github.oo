@@ -12,4 +12,5 @@ publishDate: '2024-01-02T23:28:46.221289Z'
 publication_types: ["1"]
 publication: '*2023 IEEE 17th International Conference on Automatic Face and Gesture
   Recognition (FG)*'
+doi: "10.1109/FG57933.2023.10042655"
 ---
