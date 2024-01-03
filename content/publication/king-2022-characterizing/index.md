@@ -11,5 +11,6 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-01-02T23:28:46.206105Z'
 publication_types: ["2"]
-publication: '*JMIR Formative Research*'
+publication: '*In JMIR Formative Research*'
+doi: '10.2196/35699'
 ---
