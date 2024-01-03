@@ -7,8 +7,9 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-01-02T23:28:46.214259Z'
 publication_types: ["1"]
-publication: '*In : Stephanidis, C., Antona, M., Ntoa, S. (eds) International Conference on Human-Computer Interaction 2022 Posters.*'
-publication_short: "*In HCII 2022*"
+publication: '*In 2022 24th International Conference on Human-Computer Interaction Posters.*'
+# publication_short: "*In HCII 2022*"
+doi: https://doi.org/10.1007/978-3-031-06394-7_59
 # Publication name and optional abbreviated publication name.
 # publication: " In 2023 17th IEEE International Conference on Automatic Face and Gesture Recognition"
 # publication_short: "In FG2023"
