@@ -22,13 +22,13 @@ organizations:
     url: https://www.cse.usf.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include behavioral analysis, human computer interaction and automated deception detection.
+bio: My research interests include behavioral analysis, human-computer interaction, and automated deception detection.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Human Computer Interaction
-  - Human Behaviorial Analysis
+  - Human-Computer Interaction
+  - Human Behavioral Analysis
 
 # Education to show in About widget
 education:
