@@ -9,7 +9,7 @@ permissions:
 # Run workflow when a `.bib` file is added or updated in the `data/` folder
 on:
   push:
-    branches: ['main']
+    branches: ['restore-working']
     paths: ['publications.bib']
 
   # Allows you to run this workflow manually from the Actions tab
